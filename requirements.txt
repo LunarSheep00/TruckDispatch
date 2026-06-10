@@ -1,0 +1,7 @@
+streamlit>=1.28
+matplotlib>=3.7
+numpy>=1.24
+pymoo>=0.6
+ipykernel>=6.0
+jupyter>=1.0
+# torch>=2.0  # 可选：DQN 训练需要 PyTorch

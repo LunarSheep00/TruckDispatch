@@ -1,0 +1,8 @@
+.worktrees/
+results.json
+__pycache__/
+*.pyc
+.claude
+.vscode
+td_env
+docs
